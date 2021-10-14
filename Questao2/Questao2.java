@@ -3,7 +3,7 @@ public class Questao2 {
     
 Endereco endereco = new Endereco( "Rua do Dengo", "546", "Perto do Supermercado", " Centro", "Euclides da Cunha ", "BA", "48500-000");
 
-Medico medico = new Medico( "3833974", "Beatriz Pereira Cardoso", "Feminino", "Ginicologia e Obstetricia", endereco);
+Medico medico = new Medico( "3833974", "Beatriz Pereira Cardoso", "Feminino", "Ginecologista", endereco);
 
 System.out.println("Endereço:    \n");
 
